@@ -1,0 +1,197 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>SPECHECK</title> <link rel="icon" href="img/logo atas.png">
+    <link rel="stylesheet" type="text/css" href="css/layout.css">
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <link rel="stylesheet" type="text/css" href="css/responsif.css">
+    <link rel="stylesheet" type="text/css" href="css/java.js">
+    <link rel="stylesheet" type="text/css" href="css/loader.css">
+  
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet"/>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/4.0.0/mdb.min.css" rel="stylesheet"/>
+  
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet">
+    </head>
+
+  <!-- LOADER -->
+<div id="loader-wrapper">
+  <div class="dots"></div>
+</div>
+    <script>
+      var loader = document.getElementById("loader-wrapper");
+  
+      window.addEventListener("load",function(){
+        loader.style.display = "none" ;
+      })
+    </script>
+
+  <!-- HEADER -->
+  <div class="b-example-divider"></div>
+
+  <header class="p-3 mb-2 bg-secondary text-white">
+    <div class="container">
+      <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
+
+        <a class="navbar-brand" href="home.html">
+          <img src="img/text.png" alt="Bootstrap" width="210" height="50">
+        </a>
+
+        <ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0 ">
+          <li><a href="gamelist.html" class="nav-link px-2 text-white">Game List</a></li>
+          <li><a href="cpucompare.html" class="nav-link px-2 text-white">CPU Compare</a></li>
+          <li><a href="gpucompare.html" class="nav-link px-2 text-white">GPU Compare</a></li>
+        </ul>
+
+        <form class="row g-3">
+          <div class="col-auto">
+            <label for="inputPassword2" class="visually-hidden">Password</label>
+            <input type="password" class="form-control" id="inputPassword2" placeholder="Cari Game..  ">
+          </div>
+          <div class="col-auto">
+            <button type="submit" class="btn btn-light mb-3">Cari...</button>
+          </div>
+        </form>
+        
+      </div>
+    </div>
+  </header>
+
+  <!-- ISI -->
+  <section class="layout">
+    <div class="body">
+      <div class="isifx">
+        <div>
+          <h1>SPECHECK</h1>
+          Dapat menganalisa perangkat komputer dalam hitungan detik dan secara gratis.<br>
+          Anda dapat menjawab 'Apakah saya dapat menjalankan Permainan ini'.<br>
+          Cari tahu mulai sekarang.
+        </div>
+        <div style="width: 55%;">
+          <form>
+            <div class="mb-3 ">
+              <input type="name" class="form-control" id="inputName" placeholder="Cari Game...">
+            </div>
+            <div class="col-md-12 text-left">
+              <button type="button" class="btn btn-secondary">Cari...</button>
+          </div>
+          </form>
+        </div>
+        <div>
+          <a style="font-weight: bold;">Cek System Requirementnya.</a></br>
+          SPECHECK mempunyai daftar System Requirement dari 8,500 permainan video.<br>
+          Cek setiap permainan video untuk menjawab: 
+          Apakah aku dapat menjalankannya?
+        </div>
+        <div>
+          <h4 style="text-align: center;background-color: rgb(177, 177, 177);padding:1%;font-weight: 700;margin-bottom: -1px;">Paling sering dicari</h4>
+          <table id="gmtbpop" style="background-color: rgb(228, 228, 228);">
+            <tr>
+              <th style="padding-left: 20px;">Nama Permainan</th>
+              <th>Jumlah Pencarian</th>
+            </tr>
+            <tr>
+              <td style="padding-left: 20px;">Call of Duty: Modern Warfare II</td>
+              <td>104,600</td>
+            </tr>
+            <tr>
+              <td style="padding-left: 20px;">Overwatch 2</td>
+              <td>72,960</td>
+            </tr>
+            <tr>
+              <td style="padding-left: 20px;">FIFA 23</td>
+              <td>42,176</td>
+            </tr>
+            <tr>
+              <td style="padding-left: 20px;">Valorant</td>
+              <td>40,512</td>
+            </tr>
+            <tr>
+              <td style="padding-left: 20px;">Marvel’s Spider-Man Remastered</td>
+              <td>20,328</td>
+            </tr>
+            <tr>
+              <td style="padding-left: 20px;">Fortnite</td>
+              <td>18,890</td>
+            </tr>
+            <tr>
+              <td style="padding-left: 20px;">Minecraft</td>
+              <td>10,890</td>
+            </tr>
+            <tr>
+              <td style="padding-left: 20px;">Battlefield 2042</td>
+              <td>6,321</td>
+            </tr>
+            <tr>
+              <td style="padding-left: 20px;">Genshin Impact</td>
+              <td>5,838</td>
+            </tr>
+          </table>
+        </div>
+        
+        <div>
+          <a style="font-weight: bold;">Bagaimana cara kerjanya?</a><br>
+          Website ini dapat memberikan data spesifikasi perangkat yang <br>
+          dibutuhkan untuk dapat menjalankan sebuah permainan video. Anda hanya perlu <br>
+          memasukkan nama permainan video yang akan dicari 
+          lalu akan muncul dalam hitungan detik. <br>Dengan adanya website ini
+          diharapkan dapat membantu anda dalam mendapatkan <br>spesifikasi minimun
+          agar anda dapat menjalankan permainan video yang anda sukai.
+        </div>
+
+
+      </div>
+    </div>
+
+  <!-- SIDE -->
+  <div class="side">
+    <div class="glist">
+      <div style="padding: 10px 0px 10px 0px;margin: 20px 20px 0px 0px ;margin-top: 10px;background-color: rgb(219, 219, 219);font-weight: bolder;">Top Game</div>
+      <div ><ul style="list-style-type:none;">
+        <li><a id="lstid" href="warzone2.html">Call of Duty: WARZONE II</a></li>
+        <li><a id="lstid"href="apex.html">Apex Legends</a> </li>
+        <li><a id="lstid"href="valo.html">Valorant</a> </li>
+        <li><a id="lstid"href="genshin.html">Genshin Impact</a> </li>
+        <li><a id="lstid"href="ow2.html">Overwatch 2</a> </li>
+        <li><a id="lstid"href="fifa23.html">FIFA 23</a> </li>
+        <li><a id="lstid"href="fnrt.html">FORTNITE</a> </li></ul></div>
+
+      <div style="padding: 10px 0px 10px 0px;margin: 20px 20px 0px 0px;background-color: rgb(219, 219, 219);font-weight: bolder;">Baru Ditambahkan</div>
+      <div style="margin: 0px 0px 20px 0px;""><ul style="list-style-type:none;">
+        <li><a id="lstid" href="warzone2.html">Forza Horizon 5</a></li>
+        <li><a id="lstid" href="warzone2.html">The Sims 4</a></li>
+        <li><a id="lstid" href="warzone2.html">Tower Of Fantasy</a></li>
+        <li><a id="lstid" href="warzone2.html">STRAY</a></li>
+        <li><a id="lstid" href="warzone2.html">The Simp 5</a></li>
+        <li><a id="lstid" href="warzone2.html">Cooking Simulator</a></li>
+        <li><a id="lstid" href="warzone2.html">FIFA 23</a></li>
+        <li><a id="lstid" href="warzone2.html">Elden Ring</a></li></ul> 
+    </div>
+    </div>
+    
+    </div>
+  </section>
+
+  <div class="b-example-divider"></div>
+
+  <div class="container">
+    <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top ">
+      <div class="col-md-4 d-flex align-items-center">
+        <a href="/" class="mb-3 me-2 mb-md-0 text-muted text-decoration-none lh-1">
+          <svg class="bi" width="30" height="24"><use xlink:href="#bootstrap"/></svg>
+        </a>
+        <span class="mb-3 mb-md-0 text-muted">&copy; 2022 Company, Inc</span>
+      </div>
+  
+      <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
+        <li class="ms-3"><a class="text-muted" href="#"><svg class="bi" width="24" height="24"><use xlink:href="#twitter"/></svg></a></li>
+        <li class="ms-3"><a class="text-muted" href="#"><svg class="bi" width="24" height="24"><use xlink:href="#instagram"/></svg></a></li>
+        <li class="ms-3"><a class="text-muted" href="#"><svg class="bi" width="24" height="24"><use xlink:href="#facebook"/></svg></a></li>
+      </ul>
+    </footer>
+  </div>
+</html>

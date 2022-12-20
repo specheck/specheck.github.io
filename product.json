@@ -1,0 +1,223 @@
+[  {
+  "id": "0",    
+  "name": "",    
+  "imageUrl": "",    
+  "features": [      
+     
+  ] },{    
+  "id": "1",    
+  "name": "Intel Core i5-13600K",    
+  "imageUrl": "https://cpu.userbenchmark.com/Intel-Core-i5-13600K/Rating/4134",    
+  "features": [      
+    "price    : Rp 4,791,370",      
+    "Brand    : Intel's",
+    "Deskripsi: Intel Core i5-13600K rata-rata 21,6% lebih tinggi dari skor puncak yang dicapai oleh para pemimpin grup. Ini adalah hasil yang sangat baik yang menempatkan Intel Core i5-13600K di dekat bagian atas daftar perbandingan. "   
+  ] },{
+    "id": "2",    
+    "name": "Core i7-13700K",    
+    "imageUrl": "https://static.userbenchmark.com/resources/static/cpu/Intel-Core-i7-13700K.jpg",    
+    "features": [      
+    "price    : Rp 5,989,250",      
+    "Brand    : Intel's",
+    "Deskripsi: Intel Core i7-13700K rata-rata 25,5% lebih tinggi dari skor puncak yang dicapai oleh para pemimpin grup. Ini adalah hasil yang sangat baik yang menempatkan Intel Core i7-13700K di dekat bagian atas daftar perbandingan."
+  ] },{
+    "id": "3",    
+    "name": "Core i9-13900K",    
+    "imageUrl": "https://static.userbenchmark.com/resources/static/cpu/Intel-Core-i9-13900K.jpg",    
+    "features": [      
+      "price    : Rp 8,534,745",      
+      "Brand    : Intel's",
+      "Deskripsi: Intel Core i9-13900K rata-rata 28,7% lebih tinggi dari skor puncak yang dicapai oleh para pemimpin grup. Ini adalah hasil yang sangat baik yang menempatkan Intel Core i9-13900K di dekat bagian atas daftar perbandingan.."
+  ] },{
+    "id": "4",    
+    "name": "Core i3-12100F",    
+    "imageUrl": "https://cpu.userbenchmark.com/Intel-Core-i3-12100F/Rating/4125",    
+    "features": [      
+      "price    :Rp 1,467,253",      
+      "Brand    : Intel's",
+      "Deskripsi: Intel Core i3-12100F rata-rata hanya 5,5% lebih rendah dari skor puncak yang dicapai oleh para pemimpin grup. Ini adalah hasil yang sangat baik yang menempatkan Intel Core i3-12100F di dekat bagian atas daftar perbandingan." 
+  ] },{
+    "id": "5",    
+    "name": "Core i5-12400F",    
+    "imageUrl": "https://static.userbenchmark.com/resources/static/cpu/Intel-Core-i5-12400F.jpg",    
+    "features": [      
+      "price    : Rp 2,545,345",      
+      "Brand    : Intel's",
+      "Deskripsi: Intel Core i5-12400F rata-rata hanya 2,0% lebih rendah dari skor puncak yang dicapai oleh para pemimpin grup. Ini adalah hasil yang sangat baik yang menempatkan Intel Core i5-12400F di dekat bagian atas daftar perbandingan."  
+  ] },{
+    "id": "6",    
+    "name": "Core i5-12600K",    
+    "imageUrl": "https://static.userbenchmark.com/resources/static/cpu/Intel-Core-i5-12600K.jpg",    
+    "features": [      
+      "price    : Rp 3,443,156",      
+      "Brand    : Intel's",
+      "Deskripsi: Intel Core i5-12600K rata-rata 9,5% lebih tinggi dari skor puncak yang dicapai oleh para pemimpin grup. Ini adalah hasil yang sangat baik yang menempatkan Intel Core i5-12600K di dekat bagian atas daftar perbandingan."
+ ] },{
+    "id": "7",    
+    "name": "Core i7-12700K",    
+    "imageUrl": "https://static.userbenchmark.com/resources/static/cpu/Intel-Core-i7-12700K.jpg",    
+    "features": [      
+      "price    : Rp 4,626,812",      
+      "Brand    : Intel's",
+      "Deskripsi: Intel Core i7-12700K rata-rata 13,6% lebih tinggi dari skor puncak yang dicapai oleh para pemimpin grup. Ini adalah hasil yang sangat baik yang menempatkan Intel Core i7-12700K di dekat bagian atas daftar perbandingan."  
+ ] },{
+    "id": "8",    
+    "name": "Core i9-12900K",    
+    "imageUrl": "https://static.userbenchmark.com/resources/static/cpu/Intel-Core-i9-12900K.jpg",    
+    "features": [      
+      "price    : Rp 5,989,250",      
+      "Brand    : Intel's",
+      "Deskripsi: Intel Core i9-12900K rata-rata 17,1% lebih tinggi dari skor puncak yang dicapai oleh para pemimpin grup. Ini adalah hasil yang sangat baik yang menempatkan Intel Core i9-12900K di dekat bagian atas daftar perbandingan."
+  ] },{
+    "id": "9",    
+    "name": "Core i9-12900KS",    
+    "imageUrl": "https://www.userbenchmark.com/resources/img/generic/cpu/i9.jpg",    
+    "features": [      
+      "price    : Rp 5,689,780",      
+      "Brand    : Intel's",
+      "Deskripsi: Intel Core i9-12900KS rata-rata 18,6% lebih tinggi dari skor puncak yang dicapai oleh para pemimpin grup. Ini adalah hasil yang sangat baik yang menempatkan Intel Core i9-12900KS di dekat bagian atas daftar perbandingan." 
+   ] },{
+    "id": "10",    
+    "name": "Core i9-13900K",    
+    "imageUrl": "https://static.userbenchmark.com/resources/static/cpu/Intel-Core-i9-13900K.jpg",    
+    "features": [      
+      "price    :Rp 8,534,745",      
+      "Brand    : Intel's",
+      "Deskripsi: Intel Core i9-13900K rata-rata 28,7% lebih tinggi dari skor puncak yang dicapai oleh para pemimpin grup. Ini adalah hasil yang sangat baik yang menempatkan Intel Core i9-13900K di dekat bagian atas daftar perbandingan."
+  ] },{
+    "id": "11",    
+    "name": "Ryzen 5 5600X",    
+    "imageUrl": "https://static.userbenchmark.com/resources/static/cpu/AMD-5-5600X.jpg",    
+    "features": [      
+      "price    :Rp 2,455,354",      
+      "Brand    : AMD",
+      "Deskripsi: AMD Ryzen 5 5600X rata-rata hanya 4.0% lebih rendah dari skor puncak yang dicapai oleh para pemimpin grup. Ini adalah hasil yang sangat baik yang menempatkan AMD Ryzen 5 5600X di dekat bagian atas daftar perbandingan."
+  ] },{
+    "id": "12",    
+    "name": "Ryzen 7 5800X",    
+    "imageUrl": "https://static.userbenchmark.com/resources/static/cpu/AMD-7-5800X.jpg",    
+    "features": [      
+      "price    :Rp 3,518,623",      
+      "Brand    : AMD",
+      "Deskripsi: AMD Ryzen 7 5800X rata-rata hanya 1,9% lebih rendah dari skor puncak yang dicapai oleh para pemimpin grup. Ini adalah hasil yang sangat baik yang menempatkan AMD Ryzen 7 5800X di dekat bagian atas daftar perbandingan"
+  ] },{
+    "id": "13",    
+    "name": "Ryzen 9 5900X",    
+    "imageUrl": "https://static.userbenchmark.com/resources/static/cpu/AMD-9-5900X.jpg",    
+    "features": [      
+      "price    : Rp 5,090,990",      
+      "Brand    : AMD",
+      "Deskripsi: AMD Ryzen 9 5900X rata-rata hanya 0,9% lebih rendah dari skor puncak yang dicapai oleh para pemimpin grup. Ini adalah hasil yang sangat baik yang menempatkan AMD Ryzen 9 5900X di dekat bagian atas daftar perbandingan.."
+  ] },{
+    "id": "14",    
+    "name": "Ryzen 9 5950X",    
+    "imageUrl": "https://static.userbenchmark.com/resources/static/cpu/AMD-9-5950X.jpg",    
+    "features": [      
+      "price    : Rp 8,203,981",      
+      "Brand    : AMD",
+      "Deskripsi: AMD Ryzen 9 5950X rata-rata hanya 0,1% lebih rendah dari skor puncak yang dicapai oleh para pemimpin grup. Ini adalah hasil yang sangat baik yang menempatkan AMD Ryzen 9 5950X di dekat bagian atas daftar perbandingan.."
+  ] },{
+    "id": "15",    
+    "name": "Ryzen 7 5800X3D",    
+    "imageUrl": "https://www.userbenchmark.com/resources/img/generic/cpu/r7.jpg",    
+    "features": [      
+      "price    : Rp 4,941,105",      
+      "Brand    : AMD",
+      "Deskripsi: The AMD Ryzen 7 5800X3D averaged 4.1% higher than the peak scores attained by the group leaders. This is an excellent result which ranks the AMD Ryzen 7 5800X3D near the top of the comparison list."
+  ] },{
+    "id": "16",    
+    "name": "Ryzen 5 3600",    
+    "imageUrl": "https://static.userbenchmark.com/resources/static/cpu/AMD-5-3600.jpg",    
+    "features": [      
+      "price    :Rp 1,706,829",      
+      "Brand    : AMD",
+      "Deskripsi: AMD Ryzen 5 3600 rata-rata hanya 16,8% lebih rendah dari skor puncak yang dicapai oleh para pemimpin grup. Ini adalah hasil yang sangat baik yang menempatkan AMD Ryzen 5 3600 di dekat bagian atas daftar perbandingan."
+  ] },{
+    "id": "17",    
+    "name": "Ryzen 5 3600X",    
+    "imageUrl": "https://static.userbenchmark.com/resources/static/cpu/AMD-5-3600X.jpg",    
+    "features": [      
+      "price    : Rp 3,443,156",      
+      "Brand    : AMD",
+      "Deskripsi: AMD Ryzen 5 3600X rata-rata hanya 15.9% lebih rendah dari skor puncak yang dicapai oleh para pemimpin grup. Ini adalah hasil yang sangat baik yang menempatkan AMD Ryzen 5 3600X di dekat bagian atas daftar perbandingan."
+  ] },{
+    "id": "18",    
+    "name": "Ryzen 7 3700X",    
+    "imageUrl": "https://static.userbenchmark.com/resources/static/cpu/AMD-7-3700X.jpg",    
+    "features": [      
+      "price    : Rp 3,684,978",      
+      "Brand    : AMD",
+      "Deskripsi: AMD Ryzen 7 3700X rata-rata hanya 14.0% lebih rendah dari skor puncak yang dicapai oleh para pemimpin grup. Ini adalah hasil yang sangat baik yang menempatkan AMD Ryzen 7 3700X di dekat bagian atas daftar perbandingan."
+  ] },{
+    "id": "19",    
+    "name": "Ryzen 7 3800X",    
+    "imageUrl": "https://static.userbenchmark.com/resources/static/cpu/AMD-7-3800X.jpg",    
+    "features": [      
+      "price    : Rp 4,491,900",      
+      "Brand    : AMD",
+      "Deskripsi: AMD Ryzen 7 3800X rata-rata hanya 12.9% lebih rendah dari skor puncak yang dicapai oleh para pemimpin grup. Ini adalah hasil yang sangat baik yang menempatkan AMD Ryzen 7 3800X di dekat bagian atas daftar perbandingan."
+  ] },{
+    "id": "20",    
+    "name": "Ryzen 9 3900X",    
+    "imageUrl": "https://static.userbenchmark.com/resources/static/cpu/AMD-9-3900X.jpg",    
+    "features": [      
+      "price    : Rp 5,659,983",      
+      "Brand    : AMD",
+      "Deskripsi: AMD Ryzen 9 3900X rata-rata hanya 12.1% lebih rendah dari skor puncak yang dicapai oleh para pemimpin grup. Ini adalah hasil yang sangat baik yang menempatkan AMD Ryzen 9 3900X di dekat bagian atas daftar perbandingan."
+  ] },{
+    "id": "21",    
+    "name": "Core i7-11700K",    
+    "imageUrl": "https://static.userbenchmark.com/resources/static/cpu/Intel-Core-i7-11700K.jpg",    
+    "features": [      
+      "price    : Rp 4,246,335",      
+      "Brand    : Intel's",
+      "Deskripsi: Intel Core i7-11700K rata-rata 0,7% lebih tinggi dari skor puncak yang dicapai oleh para pemimpin grup. Ini adalah hasil yang sangat baik yang menempatkan Intel Core i7-11700K di dekat bagian atas daftar perbandingan."                
+  ] },{
+    "id": "22",    
+    "name": "Core i5-11400F",    
+    "imageUrl": "https://static.userbenchmark.com/resources/static/cpu/Intel-Core-i5-11400F.jpg",    
+    "features": [      
+      "price    : Rp 2,141,061",      
+      "Brand    : Intel's",
+      "Deskripsi: Intel Core i5-11400F rata-rata hanya 5,8% lebih rendah dari skor puncak yang dicapai oleh para pemimpin grup. Ini adalah hasil yang sangat baik yang menempatkan Intel Core i5-11400F di dekat bagian atas daftar perbandingan."
+  ] },{
+    "id": "23",    
+    "name": "Core i5-11600K",    
+    "imageUrl": "https://static.userbenchmark.com/resources/static/cpu/Intel-Core-i5-11600K.jpg",    
+    "features": [      
+      "price    : Rp 2,993,951",      
+      "Brand    : Intel's",
+      "Deskripsi: Intel Core i5-11600K rata-rata hanya 0,8% lebih rendah dari skor puncak yang dicapai oleh para pemimpin grup. Ini adalah hasil yang sangat baik yang menempatkan Intel Core i5-11600K di dekat bagian atas daftar perbandingan."
+  ] },{
+    "id": "24",    
+    "name": "Core i9-11900K",    
+    "imageUrl": "https://static.userbenchmark.com/resources/static/cpu/Intel-Core-i9-11900K.jpg",    
+    "features": [      
+      "price    : Rp 5,240,426",      
+      "Brand    : Intel's",
+      "Deskripsi: Intel Core i9-11900K rata-rata 3,2% lebih tinggi dari skor puncak yang dicapai oleh para pemimpin grup. Ini adalah hasil yang sangat baik yang menempatkan Intel Core i9-11900K di dekat bagian atas daftar perbandingan."       
+  ] },{
+    "id": "25",    
+    "name": "Core i7-8086K",    
+    "imageUrl": "https://www.userbenchmark.com/resources/img/generic/cpu/i7.jpg",    
+    "features": [      
+      "price    : Rp 8,220,452",      
+      "Brand    : Intel's",
+      "Deskripsi: Intel Core i7-8086K rata-rata hanya 9,1% lebih rendah dari skor puncak yang dicapai oleh para pemimpin grup. Ini adalah hasil yang sangat baik yang menempatkan Intel Core i7-8086K di dekat bagian atas daftar perbandingan."
+  ] },{
+    "id": "26",    
+    "name": "Core i3-8350K",    
+    "imageUrl": "https://static.userbenchmark.com/resources/static/cpu/Intel-Core-i3-8350K.jpg",    
+    "features": [      
+      "price    : Rp 1,646,336",      
+      "Brand    : Intel's",
+      "Deskripsi: Intel Core i3-8350K rata-rata hanya 18,3% lebih rendah dari skor puncak yang dicapai oleh para pemimpin grup. Ini adalah hasil yang sangat baik yang menempatkan Intel Core i3-8350K di dekat bagian atas daftar perbandingan."
+  ] },{
+    "id": "27",    
+    "name": "Core i5-8600K",    
+    "imageUrl": "https://static.userbenchmark.com/resources/static/cpu/Intel-Core-i5-8600K.jpg",    
+    "features": [      
+      "price    : Rp 2,215,329",      
+      "Brand    : Intel's",
+      "Deskripsi: Intel Core i5-8600K rata-rata hanya 9,2% lebih rendah dari skor puncak yang dicapai oleh para pemimpin grup. Ini adalah hasil yang sangat baik yang menempatkan Intel Core i5-8600K di dekat bagian atas daftar perbandingan."   
+] } ]

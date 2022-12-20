@@ -1,0 +1,217 @@
+[  {   
+  "id": "0",    
+  "name": "",    
+  "imageUrl": "",    
+  "features": [      
+     
+  ] },{     
+    "id": "1",    
+    "name": "GeForce RTX 3080 Ti",    
+    "imageUrl": "https://static.userbenchmark.com/resources/static/gpu/Nvidia-RTX-3080-Ti.jpg",    
+    "features": [      
+      "price    : Rp12.620.000",      
+      "Brand    : Nvidia",
+      "Deskripsi: Nvidia RTX 3080-Ti rata-rata 130,2% lebih tinggi dari skor puncak yang dicapai oleh para pemimpin grup. Ini adalah hasil yang sangat baik yang menempatkan Nvidia RTX 3080-Ti di dekat bagian atas daftar perbandingan. "   
+    ] },{
+      "id": "2",    
+      "name": "GeForce RTX 3070 Ti",    
+      "imageUrl": "https://static.userbenchmark.com/resources/static/gpu/Nvidia-RTX-3070-Ti.jpg",    
+      "features": [      
+      "price    : Rp 9.732.625",      
+      "Brand    : Nvidia",
+      "Deskripsi: Nvidia RTX 3070-Ti rata-rata 66,7% lebih tinggi dari skor puncak yang dicapai oleh para pemimpin grup. Ini adalah hasil yang sangat baik yang menempatkan Nvidia RTX 3070-Ti di dekat bagian atas daftar perbandingan."
+    ] },{
+      "id": "3",    
+      "name": "RTX 3060-Ti",    
+      "imageUrl": "https://static.userbenchmark.com/resources/static/gpu/Nvidia-RTX-3070.jpg",    
+      "features": [      
+        "price    : Rp 6.737.925",      
+        "Brand    : Nvidia",
+        "Deskripsi: Nvidia RTX 3060-Ti rata-rata 31,6% lebih tinggi dari skor puncak yang dicapai oleh para pemimpin grup. Ini adalah hasil yang sangat baik yang menempatkan Nvidia RTX 3060-Ti di dekat bagian atas daftar perbandingan."
+    ] },{
+      "id": "4",    
+      "name": "RTX 3070",    
+      "imageUrl": "https://static.userbenchmark.com/resources/static/gpu/Nvidia-RTX-3070.jpg",    
+      "features": [      
+        "price    : Rp 7.935.805",      
+        "Brand    : Nvidia",
+        "Deskripsi: Nvidia RTX 3070 rata-rata 54,3% lebih tinggi dari skor puncak yang dicapai oleh para pemimpin grup. Ini adalah hasil yang sangat baik yang menempatkan Nvidia RTX 3070 di dekat bagian atas daftar perbandingan." 
+    ] },{
+      "id": "5",    
+      "name": "RTX 3060",    
+      "imageUrl": "https://static.userbenchmark.com/resources/static/gpu/Nvidia-RTX-3070.jpg",    
+      "features": [      
+        "price    : Rp 5.300.469",      
+        "Brand    : Nvidia",
+        "Deskripsi: Nvidia RTX 3060 rata-rata hanya 2,0% lebih rendah dari skor puncak yang dicapai oleh para pemimpin grup. Ini adalah hasil yang sangat baik yang menempatkan Nvidia RTX 3060 di dekat bagian atas daftar perbandingan."  
+    ] },{
+      "id": "6",    
+      "name": "RTX 3080",    
+      "imageUrl": "https://static.userbenchmark.com/resources/static/gpu/Nvidia-RTX-3080.jpg",    
+      "features": [      
+        "price    : Rp 13.658.977",      
+        "Brand    : Nvidia",
+        "Deskripsi: Nvidia RTX 3080 rata-rata 107,4% lebih tinggi dari skor puncak yang dicapai oleh para pemimpin grup. Ini adalah hasil yang sangat baik yang menempatkan Nvidia RTX 3080 di dekat bagian atas daftar perbandingan."
+   ] },{
+      "id": "7",    
+      "name": "RTX 3050",    
+      "imageUrl": "https://static.userbenchmark.com/resources/static/gpu/Nvidia-RTX-3050.jpg",    
+      "features": [      
+        "price    : Rp 4,491,900",      
+        "Brand    : Nvidia",
+        "Deskripsi: Nvidia RTX 3050 rata-rata 28,3% lebih rendah dari skor puncak yang dicapai oleh para pemimpin grup. Ini bukan hasil yang bagus yang menunjukkan bahwa ada alternatif yang jauh lebih cepat dalam daftar perbandingan."  
+   ] },{
+      "id": "8",    
+      "name": "RTX 2070S (Super)",    
+      "imageUrl": "https://static.userbenchmark.com/resources/static/gpu/Nvidia-RTX-2070-Super.jpg",    
+      "features": [      
+        "price    : Rp 7,486,600",      
+        "Brand    : Nvidia",
+        "Deskripsi: Nvidia RTX 2070S (Super) rata-rata 17,7% lebih tinggi dari skor puncak yang dicapai oleh para pemimpin grup. Ini adalah hasil yang sangat baik yang menempatkan Nvidia RTX 2070S (Super) di dekat bagian atas daftar perbandingan."
+    ] },{
+      "id": "9",    
+      "name": "RTX 2060S (Super)",    
+      "imageUrl": "https://static.userbenchmark.com/resources/static/gpu/Nvidia-RTX-2000-Super.jpg",    
+      "features": [      
+        "price    : Rp 6,423,632",      
+        "Brand    : Nvidia",
+        "Deskripsi: Nvidia RTX 2060S (Super) rata-rata hanya 0,7% lebih rendah dari skor puncak yang dicapai oleh para pemimpin grup. Ini adalah hasil yang sangat baik yang menempatkan Nvidia RTX 2060S (Super) di dekat bagian atas daftar perbandingan." 
+     ] },{
+      "id": "10",    
+      "name": "RTX 2080S (Super)",    
+      "imageUrl": "https://static.userbenchmark.com/resources/static/gpu/Nvidia-RTX-2000-Super.jpg",    
+      "features": [      
+        "price    : Rp Rp 6,513,322",      
+        "Brand    : Nvidia",
+        "Deskripsi: Nvidia RTX 2080S (Super) rata-rata 37,9% lebih tinggi dari skor puncak yang dicapai oleh para pemimpin grup. Ini adalah hasil yang sangat baik yang menempatkan Nvidia RTX 2080S (Super) di dekat bagian atas daftar perbandingan."
+    ] },{
+      "id": "11",    
+      "name": "GTX 1660S (Super)",    
+      "imageUrl": "https://static.userbenchmark.com/resources/static/gpu/Nvidia-GTX-1660-Super.jpg",    
+      "features": [      
+        "price    : Rp 3,279,196",      
+        "Brand    : Nvidia",
+        "Deskripsi: Nvidia GTX 1660S (Super) rata-rata 29,4% lebih rendah dari skor puncak yang dicapai oleh para pemimpin grup. Ini bukan hasil yang bagus yang menunjukkan bahwa ada alternatif yang jauh lebih cepat dalam daftar perbandingan."
+    ] },{
+      "id": "12",    
+      "name": "GTX 1060-6GB",    
+      "imageUrl": "https://static.userbenchmark.com/resources/static/gpu/Nvidia-GTX-1060.jpg",    
+      "features": [      
+        "price    : Rp 864,570",      
+        "Brand    : Nvidia",
+        "Deskripsi: Nvidia GTX 1060-6GB rata-rata 43.0% lebih rendah dari skor puncak yang dicapai oleh pemimpin grup. Ini bukan hasil yang bagus yang menunjukkan bahwa ada alternatif yang jauh lebih cepat dalam daftar perbandingan."
+    ] },{
+      "id": "13",    
+      "name": "GTX 1650S (Super)",    
+      "imageUrl": "https://static.userbenchmark.com/resources/static/gpu/Nvidia-GTX-1650-Super.jpg",    
+      "features": [      
+        "price    : Rp 5240725",      
+        "Brand    : Nvidia",
+        "Deskripsi: Nvidia GTX 1060-6GB rata-rata 43.0% lebih rendah dari skor puncak yang dicapai oleh pemimpin grup. Ini bukan hasil yang bagus yang menunjukkan bahwa ada alternatif yang jauh lebih cepat dalam daftar perbandingan."
+    ] },{
+      "id": "14",    
+      "name": "GTX 1660-Ti",    
+      "imageUrl": "https://static.userbenchmark.com/resources/static/gpu/Nvidia-GTX-1660-Ti.jpg",    
+      "features": [      
+        "price    : Rp 3,818,093",      
+        "Brand    : Nvidia",
+        "Deskripsi: The Nvidia GTX 1660-Ti averaged 23.7% lower than the peak scores attained by the group leaders. This is an excellent result which ranks the Nvidia GTX 1660-Ti near the top of the comparison list."
+    ] },{
+      "id": "15",    
+      "name": "GTX 1650",    
+      "imageUrl": "https://static.userbenchmark.com/resources/static/gpu/Nvidia-GTX-1650.jpg",    
+      "features": [      
+        "price    : Rp 2,320,743",      
+        "Brand    : Nvidia",
+        "Deskripsi: Nvidia GTX 1650 rata-rata 57,1% lebih rendah dari skor puncak yang dicapai oleh para pemimpin grup. Ini bukan hasil yang bagus yang menunjukkan bahwa ada alternatif yang jauh lebih cepat dalam daftar perbandingan."
+    ] },{
+      "id": "16",    
+      "name": "GTX 1050-Ti",    
+      "imageUrl": "https://static.userbenchmark.com/resources/static/gpu/Nvidia-GTX-1050-Ti.jpg",    
+      "features": [      
+        "price    : Rp 2,320,743",      
+        "Brand    : Nvidia",
+        "Deskripsi: Nvidia GTX 1050-Ti rata-rata 69,1% lebih rendah dari skor puncak yang dicapai oleh para pemimpin grup. Ini bukan hasil yang bagus yang menunjukkan bahwa ada alternatif yang jauh lebih cepat dalam daftar perbandingan."
+    ] },{
+      "id": "17",    
+      "name": "GTX 1070",    
+      "imageUrl": "https://static.userbenchmark.com/resources/static/gpu/Nvidia-GTX-1070.jpg",    
+      "features": [      
+        "price    : Rp 2,994,550",      
+        "Brand    : Nvidia",
+        "Deskripsi: Nvidia GTX 1070 rata-rata 20,1% lebih rendah dari skor puncak yang dicapai oleh para pemimpin grup. Ini adalah hasil yang sangat baik yang menempatkan Nvidia GTX 1070 di dekat bagian atas daftar perbandingan."
+    ] },{
+      "id": "18",    
+      "name": "GTX 1070-Ti",    
+      "imageUrl": "https://static.userbenchmark.com/resources/static/gpu/Nvidia-GTX-1070-Ti.jpg",    
+      "features": [      
+        "price    : Rp 5,375,336",      
+        "Brand    : Nvidia",
+        "Deskripsi: The Nvidia GTX 1070-Ti averaged just 3.6% lower than the peak scores attained by the group leaders. This is an excellent result which ranks the Nvidia GTX 1070-Ti near the top of the comparison list."
+    ] },{
+      "id": "19",    
+      "name": "GTX 1080",    
+      "imageUrl": "https://static.userbenchmark.com/resources/static/gpu/Nvidia-GTX-1080.jpg",    
+      "features": [      
+        "price    : Rp 5,240,725",      
+        "Brand    : Nvidia",
+        "Deskripsi: Nvidia GTX 1080 rata-rata 5,8% lebih tinggi dari skor puncak yang dicapai oleh para pemimpin grup. Ini adalah hasil yang sangat baik yang menempatkan Nvidia GTX 1080 di dekat bagian atas daftar perbandingan."
+    ] },{
+      "id": "20",    
+      "name": "GTX 1080-Ti",    
+      "imageUrl": "https://static.userbenchmark.com/resources/static/gpu/Nvidia-GTX-1080-Ti.jpg",    
+      "features": [      
+        "price    : Rp 9,717,802",      
+        "Brand    : Nvidia",
+        "Deskripsi: Nvidia GTX 1080-Ti rata-rata 36,2% lebih tinggi dari skor puncak yang dicapai oleh para pemimpin grup. Ini adalah hasil yang sangat baik yang menempatkan Nvidia GTX 1080-Ti di dekat bagian atas daftar perbandingan."
+    ] },{
+      "id": "21",    
+      "name": "GTX 970",    
+      "imageUrl": "https://static.userbenchmark.com/resources/static/gpu/Nvidia-GTX-970.jpg",    
+      "features": [      
+        "price    : Rp 5,090,840",      
+        "Brand    : Nvidia",
+        "Deskripsi: Nvidia GTX 970 rata-rata 49,8% lebih rendah dari skor puncak yang dicapai oleh para pemimpin grup. Ini bukan hasil yang bagus yang menunjukkan bahwa ada alternatif yang jauh lebih cepat dalam daftar perbandingan."                
+    ] },{
+      "id": "22",    
+      "name": "GTX 980",    
+      "imageUrl": "https://static.userbenchmark.com/resources/static/gpu/Nvidia-GTX-980.jpg",    
+      "features": [      
+        "price    : Rp 7,486,750",      
+        "Brand    : Nvidia",
+        "Deskripsi: Nvidia GTX 980 rata-rata 39,3% lebih rendah dari skor puncak yang dicapai oleh para pemimpin grup. Ini bukan hasil yang bagus yang menunjukkan bahwa ada alternatif yang jauh lebih cepat dalam daftar perbandingan."
+    ] },{
+      "id": "23",    
+      "name": "GTX 980-Ti",    
+      "imageUrl": "https://static.userbenchmark.com/resources/static/gpu/Nvidia-GTX-980-Ti.jpg",    
+      "features": [      
+        "price    : Rp 8,384,860",      
+        "Brand    : Nvidia",
+        "Deskripsi: Nvidia GTX 980-Ti rata-rata 20,1% lebih rendah dari skor puncak yang dicapai oleh para pemimpin grup. Ini adalah hasil yang sangat baik yang menempatkan Nvidia GTX 980-Ti di dekat bagian atas daftar perbandingan."
+    ] },{
+      "id": "24",    
+      "name": "RX 580",    
+      "imageUrl": "https://static.userbenchmark.com/resources/static/gpu/AMD-RX-580.jpg",    
+      "features": [      
+        "price    : Rp 2,829,992",      
+        "Brand    : AMD",
+        "Deskripsi: AMD RX 580 rata-rata 45,3% lebih rendah dari skor puncak yang dicapai oleh para pemimpin kelompok. Ini bukan hasil yang bagus yang menunjukkan bahwa ada alternatif yang jauh lebih cepat dalam daftar perbandingan."       
+    ] },{
+      "id": "25",    
+      "name": "RX 570",    
+      "imageUrl": "https://static.userbenchmark.com/resources/static/gpu/AMD-RX-570.jpg",    
+      "features": [      
+        "price    : Rp 1,952,245",      
+        "Brand    : AMD",
+        "Deskripsi: AMD RX 570 rata-rata 53.6% lebih rendah dari skor puncak yang dicapai oleh para pemimpin grup. Ini bukan hasil yang bagus yang menunjukkan bahwa ada alternatif yang jauh lebih cepat dalam daftar perbandingan."
+    ] },{
+      "id": "26",    
+      "name": "RX 590",    
+      "imageUrl": "https://static.userbenchmark.com/resources/static/gpu/AMD-RX-590.jpg",    
+      "features": [      
+        "price    : Rp 2,994,550",      
+        "Brand    : AMD",
+        "Deskripsi: AMD RX 590 rata-rata 40,0% lebih rendah dari skor puncak yang dicapai oleh para pemimpin kelompok. Ini bukan hasil yang bagus yang menunjukkan bahwa ada alternatif yang jauh lebih cepat dalam daftar perbandingan."
+    ] }
+]
+  

@@ -1,0 +1,62 @@
+<div id="comparison">
+    <div class="comparison-header">
+      <h2>Product Comparison</h2>
+    </div>
+    <div class="comparison-container">
+      <div class="comparison-dropdown">
+        <label for="product1">Choose a product:</label>
+        <select id="product1">
+          <option value="">Select a product</option>
+        </select>
+      </div>
+      <div class="comparison-dropdown">
+        <label for="product2">Choose a product:</label>
+        <select id="product2">
+          <option value="">Select a product</option>
+        </select>
+      </div>
+    </div>
+    <div id="comparison-results">
+      <!-- Comparison results will be displayed here -->
+    </div>
+  </div>
+
+  <style>
+    #comparison {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 60%;
+  margin: 0 auto;
+}
+
+.comparison-header {
+  text-align: center;
+}
+
+.comparison-container {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.comparison-dropdown {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 45%;
+}
+
+label {
+  font-size: 16px;
+}
+
+select {
+  width: 200px;
+  height: 40px;
+  font-size: 16px;
+  margin-top: 10px;
+  border: 1px solid #ccc;
+}
+
+  </style>
