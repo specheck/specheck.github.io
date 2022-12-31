@@ -7,26 +7,15 @@
     <link rel="stylesheet" type="text/css" href="css/responsif.css">
     <link rel="stylesheet" type="text/css" href="css/java.js">
     <link rel="stylesheet" type="text/css" href="css/loader.css">
-
   
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet"/>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/4.0.0/mdb.min.css" rel="stylesheet"/>
-    
   
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet">
-
-    <style>
-        td > img {
-            width: 100%;
-            height: 250px;
-            object-fit: contain;
-        }
-    </style>
-
     </head>
 
   <!-- LOADER -->
@@ -48,7 +37,7 @@
     <div class="container">
       <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
 
-        <a class="navbar-brand" href="home.html">
+        <a class="navbar-brand" href="index.html">
           <img src="img/text.png" alt="Bootstrap" width="210" height="50">
         </a>
 
@@ -75,55 +64,111 @@
   <!-- ISI -->
   <section class="layout">
     <div class="body">
-      <div class="isifx" style="padding-top: 1%;">
-        <h1>GPU Compare</h1>
-        <div style="font-size:larger;margin-bottom:1%;">
-          Dengan SPECHECK, kamu bisa melakukan perbandingan 
-          spesifikasi dari dua jenis GPU yang berbeda.
+      <div class="isifx">
+        <div>
+          <h1>SPECHECK</h1>
+          Dapat menganalisa perangkat komputer dalam hitungan detik dan secara gratis.<br>
+          Anda dapat menjawab 'Apakah saya dapat menjalankan Permainan ini'.<br>
+          Cari tahu mulai sekarang.
         </div>
-<div>
-    <!-- ISI -->
-    <div class="col-md-9 mx-auto">
-        <table class="table">
-            <tr class="bg-light">
-              <th>Pilih Produk</th>
-              <th>
-                <label for="product">Pilih Produk:</label>
-                <select name="product" id="product1"></select>
-              </th>
-              <th>
-                <label for="product">Pilih Produk:</label>
-                <select name="product" id="product2"></select>
-              </th>
-            
-            
-            <script src="ganti.js"></script>
-
-
-              
+        <div style="width: 55%;">
+          <input type="search" class="form-control" id="myInput" onkeyup="filters()" placeholder="Cari Game..." title="Type in a name">
+          <ul id="myList">
+            <li><a href="gwarzone2.html">Call of Duty: WARZONE II</a></li>
+            <li><a href="gapex.html">Apex Legends</a> </li>
+            <li><a href="gvalo.html">Valorant</a> </li>
+            <li><a href="ggenshin.html">Genshin Impact</a> </li>
+            <li><a href="gow2.html">Overwatch 2</a> </li>
+            <li><a href="gfifa23.html">FIFA 23</a> </li>
+          </ul> 
+          <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+          <script src="css/cari.js"></script>
+        </div>
+        <div>
+          <a style="font-weight: bold;">Cek System Requirementnya.</a></br>
+          SPECHECK mempunyai daftar System Requirement dari 8,500 permainan video.<br>
+          Cek setiap permainan video untuk menjawab: 
+          Apakah aku dapat menjalankannya?
+        </div>
+        <div>
+          <h4 style="text-align: center;background-color: rgb(177, 177, 177);padding:1%;font-weight: 700;margin-bottom: -1px;">Paling sering dicari</h4>
+          <table id="gmtbpop" style="background-color: rgb(228, 228, 228);">
+            <tr>
+              <th style="padding-left: 20px;">Nama Permainan</th>
+              <th>Jumlah Pencarian</th>
             </tr>
             <tr>
-              <th>Gambar Produk</th>
-              <td>
-                <div id="product-description1"></div>
-              </td>
-              <td>
-                <div id="product-description2"></div>
-              </td>
+              <td style="padding-left: 20px;">Call of Duty: Warzone II</td>
+              <td>10,123</td>
             </tr>
+            <tr>
+              <td style="padding-left: 20px;">Apex Legends</td>
+              <td>8,423</td>
+            </tr>
+            <tr>
+              <td style="padding-left: 20px;">Valorant</td>
+              <td>7,212</td>
+            </tr>
+            <tr>
+              <td style="padding-left: 20px;">Genshin Impact</td>
+              <td>6,123</td>
+            </tr>
+            <tr>
+              <td style="padding-left: 20px;">Overwatch 2</td>
+              <td>5,838</td>
+            </tr>
+            <tr>
+              <td style="padding-left: 20px;">FIFA 23</td>
+              <td>4,212 </td>
+            </tr>
+            <tr>
+              <td style="padding-left: 20px;">Fortnite</td>
+              <td>4,003</td>
+            </tr>
+          </table>
+        </div>
+        
+        <div>
+          <a style="font-weight: bold;">Bagaimana cara kerjanya?</a><br>
+          Website ini dapat memberikan data spesifikasi perangkat yang <br>
+          dibutuhkan untuk dapat menjalankan sebuah permainan video. Anda hanya perlu <br>
+          memasukkan nama permainan video yang akan dicari 
+          lalu akan muncul dalam hitungan detik. <br>Dengan adanya website ini
+          diharapkan dapat membantu anda dalam mendapatkan <br>spesifikasi minimun
+          agar anda dapat menjalankan permainan video yang anda sukai.
+        </div>
 
-        </table>
-    </div>
 
-
-  </div>
       </div>
     </div>
 
   <!-- SIDE -->
-    <div class="side">
-      
-    </div>  
+  <div class="side">
+    <div class="glist">
+      <div style="padding: 10px 0px 10px 0px;margin: 20px 20px 0px 0px ;margin-top: 10px;background-color: rgb(219, 219, 219);font-weight: bolder;">Top Game</div>
+      <div ><ul style="list-style-type:none;">
+        <li><a id="lstid" href="gwarzone2.html">Call of Duty: WARZONE II</a></li>
+        <li><a id="lstid"href="gapex.html">Apex Legends</a> </li>
+        <li><a id="lstid"href="gvalo.html">Valorant</a> </li>
+        <li><a id="lstid"href="ggenshin.html">Genshin Impact</a> </li>
+        <li><a id="lstid"href="gow2.html">Overwatch 2</a> </li>
+        <li><a id="lstid"href="gfifa23.html">FIFA 23</a> </li>
+        <li><a id="lstid"href="gfnrt.html">FORTNITE</a> </li></ul></div>
+
+      <div style="padding: 10px 0px 10px 0px;margin: 20px 20px 0px 0px;background-color: rgb(219, 219, 219);font-weight: bolder;">Baru Ditambahkan</div>
+      <div style="margin: 0px 0px 20px 0px;""><ul style="list-style-type:none;">
+        <li><a id="lstid" href="gforza5.html">Forza Horizon 5</a></li>
+        <li><a id="lstid" href="gsims4.html">The Sims 4</a></li>
+        <li><a id="lstid" href="gtof.html">Tower Of Fantasy</a></li>
+        <li><a id="lstid" href="gstray.html">STRAY</a></li>
+        <li><a id="lstid" href="gsimp5.html">The Simp 5</a></li>
+        <li><a id="lstid" href="gcooksim.html">Cooking Simulator</a></li>
+        <li><a id="lstid" href="gfifa23.html">FIFA 23</a></li>
+        <li><a id="lstid" href="gelden.html">Elden Ring</a></li></ul> 
+    </div>
+    </div>
+    
+    </div>
   </section>
 
   <div class="b-example-divider"></div>

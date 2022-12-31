@@ -72,14 +72,17 @@
           Cari tahu mulai sekarang.
         </div>
         <div style="width: 55%;">
-          <form>
-            <div class="mb-3 ">
-              <input type="name" class="form-control" id="inputName" placeholder="Cari Game...">
-            </div>
-            <div class="col-md-12 text-left">
-              <button type="button" class="btn btn-secondary">Cari...</button>
-          </div>
-          </form>
+          <input type="search" class="form-control" id="myInput" onkeyup="filters()" placeholder="Cari Game..." title="Type in a name">
+          <ul id="myList">
+            <li><a href="gwarzone2.html">Call of Duty: WARZONE II</a></li>
+            <li><a href="gapex.html">Apex Legends</a> </li>
+            <li><a href="gvalo.html">Valorant</a> </li>
+            <li><a href="ggenshin.html">Genshin Impact</a> </li>
+            <li><a href="gow2.html">Overwatch 2</a> </li>
+            <li><a href="gfifa23.html">FIFA 23</a> </li>
+          </ul> 
+          <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+          <script src="css/cari.js"></script>
         </div>
         <div>
           <a style="font-weight: bold;">Cek System Requirementnya.</a></br>

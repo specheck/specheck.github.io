@@ -90,3 +90,32 @@ padding: 10px;
     text-decoration:none;
     color:rgb(170, 33, 255);
   }
+
+/*search bar*/
+#myInput {
+  margin-bottom: 10px;
+}
+
+#myList {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+#myList li a {
+  border: 1px solid #ddd;
+  margin-top: -1px; /* Prevent double borders */
+  background-color: #f6f6f6;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px;
+  color: black;
+  display: block
+}
+
+#myList li a:hover:not(.header) {
+  background-color: #eee;
+}
+#myList {
+  display: none;
+}
