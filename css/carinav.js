@@ -11,6 +11,6 @@ searchForm.addEventListener('submit', function(event) {
 });
 function search(term) {
     // Ganti URL yang sedang ditampilkan dengan URL file HTML yang ingin dibuka
-    window.location.assign(`/search/${term}.html`);
+    window.location.assign(`g${term}.html`);
   }
   
