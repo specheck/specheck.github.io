@@ -100,6 +100,8 @@ padding: 10px;
   list-style-type: none;
   padding: 0;
   margin: 0;
+  height: 150px;
+  overflow-y: scroll;
 }
 
 #myList li a {
@@ -119,5 +121,3 @@ padding: 10px;
 #myList {
   display: none;
 }
-
-/*search navbar*/
